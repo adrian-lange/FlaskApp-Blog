@@ -8,5 +8,5 @@ python app.py
 ---
 ### App Preview:
 ![Image](https://s10.gifyu.com/images/Animation4.gif)
-<hr>
+<hr />
 ![Image](https://s10.gifyu.com/images/Animation57614d0bd0cbe453b.gif)
